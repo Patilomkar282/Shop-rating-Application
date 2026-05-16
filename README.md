@@ -298,16 +298,3 @@ GET /api/owner/ratings
 ✅ Secure backend APIs  
 
 ---
-
-# 👨‍💻 Developed By
-
-## Omkar Patil
-
-Full Stack MERN Developer  
-Passionate about scalable web applications, backend systems, and modern UI/UX development.
-
----
-
-# 📄 License
-
-This project is developed for internship assessment and educational purposes.
